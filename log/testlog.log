@@ -1,0 +1,1653 @@
+2020-02-24 20:39:59,942 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-24 20:40:00,005 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-24 20:40:00,005 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-24 20:40:00,005 - utilities.Log -INFO - AppManager: columns in Excel 3
+2020-02-24 20:40:00,020 - utilities.Log -INFO - Test Base: startSessionMultiplyActivationPrepaid
+2020-02-24 20:54:57,597 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-24 20:54:57,660 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-24 20:54:57,660 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-24 20:54:57,675 - utilities.Log -INFO - AppManager: columns in Excel 3
+2020-02-24 20:54:57,675 - utilities.Log -INFO - Test Base: startSessionMultiplyActivationPrepaid
+2020-02-24 20:55:07,176 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 20:55:07,472 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 20:55:07,815 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 20:55:07,862 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 20:55:08,237 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 20:55:08,611 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 20:55:08,658 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-24 20:55:08,767 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 20:55:09,032 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 20:55:09,204 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 20:55:56,061 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-24 20:56:19,506 - utilities.Log -INFO - process dismised
+2020-02-24 20:56:20,656 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 20:56:20,834 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 20:56:21,026 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 20:56:21,055 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 20:56:21,356 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 20:56:21,590 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 20:56:21,614 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-24 20:56:21,665 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 20:56:21,866 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 20:56:21,975 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 20:57:07,290 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-24 20:57:29,753 - utilities.Log -INFO - process dismised
+2020-02-24 20:57:30,902 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 20:57:31,109 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 20:57:31,333 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 20:57:31,368 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 20:57:31,697 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 20:57:31,981 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 20:57:32,008 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-24 20:57:32,076 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 20:57:32,282 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 20:57:32,412 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 21:24:31,163 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-24 21:24:31,210 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-24 21:24:31,226 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-24 21:24:31,226 - utilities.Log -INFO - AppManager: columns in Excel 3
+2020-02-24 21:24:31,226 - utilities.Log -INFO - Test Base: startSessionMultiplyActivationPrepaid
+2020-02-24 21:24:31,241 - utilities.Log -INFO - start: true
+2020-02-24 21:24:40,055 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 21:24:40,352 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 21:24:40,679 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 21:24:40,726 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 21:24:41,116 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 21:24:41,522 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 21:24:41,568 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-24 21:24:41,662 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 21:24:41,896 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 21:24:42,083 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 21:25:27,256 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-24 21:25:59,142 - utilities.Log -INFO - process dismised
+2020-02-24 21:25:59,153 - utilities.Log -INFO - iterateThroughDataTbl: false
+2020-02-24 21:30:13,298 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-24 21:30:13,330 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-24 21:30:13,345 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-24 21:30:13,345 - utilities.Log -INFO - AppManager: columns in Excel 3
+2020-02-24 21:30:13,376 - utilities.Log -INFO - Test Base: startSessionMultiplyActivationPrepaid
+2020-02-24 21:30:13,376 - utilities.Log -INFO - start: true
+2020-02-24 21:30:21,208 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 21:30:21,504 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 21:30:21,847 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 21:30:21,894 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 21:30:22,284 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 21:30:22,658 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 21:30:22,705 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-24 21:30:22,814 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 21:30:23,064 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 21:30:23,236 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 21:31:09,041 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-24 21:31:32,453 - utilities.Log -INFO - process dismised
+2020-02-24 21:35:22,565 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-24 21:35:22,605 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-24 21:35:22,610 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-24 21:35:22,614 - utilities.Log -INFO - AppManager: columns in Excel 3
+2020-02-24 21:35:22,619 - utilities.Log -INFO - Test Base: startSessionMultiplyActivationPrepaid
+2020-02-24 21:35:22,624 - utilities.Log -INFO - start: true
+2020-02-24 21:35:31,735 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 21:35:31,954 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 21:35:32,187 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 21:35:53,160 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 21:35:53,597 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 21:35:53,971 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 21:35:54,018 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-24 21:35:54,127 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 21:35:54,361 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 21:35:54,549 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 21:38:30,183 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-24 21:45:44,643 - utilities.Log -INFO - process dismised
+2020-02-24 21:50:48,999 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-24 21:50:49,031 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-24 21:50:49,046 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-24 21:50:49,046 - utilities.Log -INFO - AppManager: columns in Excel 3
+2020-02-24 21:50:49,046 - utilities.Log -INFO - Test Base: startSessionMultiplyActivationPrepaid
+2020-02-24 21:50:49,062 - utilities.Log -INFO - start: true
+2020-02-24 21:50:57,642 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 21:50:57,954 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 21:50:58,281 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 21:50:58,328 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 21:50:58,734 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 21:50:59,124 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 21:50:59,155 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-24 21:50:59,264 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 21:50:59,514 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 21:50:59,701 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 21:51:46,040 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-24 21:52:09,216 - utilities.Log -INFO - process dismised
+2020-02-24 21:52:10,377 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 21:52:10,594 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 21:52:10,812 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_11002 started
+2020-02-24 21:52:10,853 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 21:52:11,172 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 21:52:11,425 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1I1234523s started
+2020-02-24 21:52:11,460 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-24 21:52:11,508 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-24 21:52:11,693 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 21:52:11,812 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1<__TAB> started
+2020-02-24 21:52:55,189 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-24 21:53:17,624 - utilities.Log -INFO - process dismised
+2020-02-24 21:53:17,636 - utilities.Log -INFO - iterateThroughDataTbl: false
+2020-02-25 14:43:20,321 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 14:43:20,368 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 14:43:20,368 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 14:43:20,368 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 14:43:20,384 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 14:43:20,384 - utilities.Log -INFO - ApplicationManager.runInd false
+2020-02-25 14:43:29,837 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 14:43:30,149 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 14:43:30,539 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 14:43:38,495 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 14:43:38,917 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 14:43:39,307 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 14:43:39,353 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-25 14:43:39,463 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 14:43:39,712 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 14:43:39,899 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 14:44:14,301 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 14:45:13,944 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 14:45:23,206 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 14:47:57,485 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 14:47:57,509 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 14:47:57,514 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 14:47:57,518 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 14:47:57,522 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 14:47:57,527 - utilities.Log -INFO - ApplicationManager.runInd false
+2020-02-25 14:48:03,817 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 14:48:04,038 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 14:48:04,271 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 14:48:13,752 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 14:48:14,120 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 14:48:14,352 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 14:48:14,376 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-25 14:48:14,430 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 14:48:14,614 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 14:48:14,740 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 14:48:48,502 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 14:49:03,192 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 14:49:38,173 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 14:49:46,181 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-02-25 14:49:59,897 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 14:50:35,074 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 14:50:51,526 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 14:50:52,429 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 14:50:52,885 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 14:50:54,095 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 14:50:54,849 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-25 14:58:51,188 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 14:58:51,203 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 14:58:51,203 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 14:58:51,219 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 14:58:51,219 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 14:58:51,219 - utilities.Log -INFO - ApplicationManager.runInd false
+2020-02-25 14:58:58,161 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 14:58:58,442 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 14:58:58,769 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 14:58:58,816 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 14:58:59,222 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 14:58:59,612 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 14:58:59,674 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-25 14:58:59,783 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 14:59:00,049 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 14:59:00,220 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 14:59:33,542 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 14:59:34,329 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 14:59:48,716 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 14:59:57,406 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 14:59:58,298 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 14:59:59,437 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:00:08,488 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:00:09,265 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:00:10,601 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:00:11,107 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:00:11,568 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:00:12,573 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:00:20,896 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:00:21,668 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:00:23,025 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:00:23,545 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:00:24,022 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:00:25,216 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:00:33,637 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:00:34,411 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:00:35,749 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:00:36,255 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:00:36,716 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:00:38,192 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:00:46,575 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:00:46,834 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:02:32,819 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 15:02:32,844 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 15:02:32,849 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 15:02:32,853 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 15:02:32,857 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 15:02:32,862 - utilities.Log -INFO - ApplicationManager.runInd false
+2020-02-25 15:02:39,019 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 15:02:39,231 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 15:02:39,476 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 15:02:39,508 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 15:02:39,865 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 15:02:40,101 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 15:02:40,125 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-25 15:02:40,186 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 15:02:40,369 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 15:02:40,488 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 15:03:13,418 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:03:14,197 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:03:14,740 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:03:15,219 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:03:16,491 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:03:25,617 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:03:26,382 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:03:26,880 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:03:27,337 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:03:28,396 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:03:37,413 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:03:38,177 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:03:38,677 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:03:39,135 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:03:40,410 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:03:48,872 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:03:49,636 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:03:50,136 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:03:50,599 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:03:51,923 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:04:00,290 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:04:42,208 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:04:42,513 - utilities.Log -INFO - process dismised
+2020-02-25 15:08:07,625 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-25 15:11:39,629 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 15:11:39,676 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 15:11:39,676 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 15:11:39,676 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 15:11:39,692 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 15:11:39,692 - utilities.Log -INFO - ApplicationManager.runInd false
+2020-02-25 15:11:49,707 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 15:11:49,988 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 15:11:50,347 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 15:11:50,393 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 15:11:50,799 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 15:11:51,189 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 15:11:51,236 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-25 15:11:51,345 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 15:11:51,595 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 15:11:51,766 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 15:12:57,605 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:12:58,749 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:12:59,301 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:12:59,813 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:13:00,932 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:13:10,020 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:13:10,784 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:13:11,287 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:13:11,745 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:13:12,832 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:13:21,093 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:13:21,864 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:13:22,360 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:13:22,810 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:13:23,942 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:13:32,257 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:13:33,033 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:13:33,544 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:13:34,018 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:13:35,399 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:13:44,258 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:14:26,115 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:14:26,427 - utilities.Log -INFO - process dismised
+2020-02-25 15:15:20,714 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-25 15:16:11,949 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 15:16:11,991 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 15:16:11,996 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 15:16:12,000 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 15:16:12,004 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 15:16:12,009 - utilities.Log -INFO - ApplicationManager.runInd false
+2020-02-25 15:16:20,384 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 15:16:20,593 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 15:16:20,823 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 15:16:20,863 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 15:16:21,194 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 15:16:21,422 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 15:16:21,446 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-25 15:16:21,501 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 15:16:21,691 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 15:16:21,819 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 15:17:12,229 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:17:47,682 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:17:59,090 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:17:59,970 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:18:01,050 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:18:40,767 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:18:42,136 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:18:42,642 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:18:43,118 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:18:44,184 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:19:04,768 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:19:05,959 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:19:06,475 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:19:06,941 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:19:08,156 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:19:28,808 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:19:29,954 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:19:30,472 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:19:30,938 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:19:32,216 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:19:55,286 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:36:26,896 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 15:36:27,115 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 15:36:27,115 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 15:36:27,115 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 15:36:27,130 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 15:36:27,146 - utilities.Log -INFO - ApplicationManager.runInd false
+2020-02-25 15:36:36,709 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 15:36:36,990 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 15:36:37,317 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 15:36:37,364 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 15:36:37,738 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 15:36:38,144 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 15:36:38,175 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-25 15:36:38,269 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 15:36:38,487 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 15:36:38,643 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 15:37:27,093 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:37:28,766 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:37:29,303 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:37:29,790 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:37:30,852 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:38:27,667 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:38:29,315 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:38:29,810 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:38:30,333 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:38:31,345 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:38:54,617 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:38:56,341 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:38:56,819 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:38:57,282 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:38:58,526 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:39:43,092 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:39:44,871 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 15:39:45,370 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 15:39:45,631 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 15:39:46,951 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:40:21,067 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 15:40:36,285 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-02-25 15:40:51,907 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 15:41:16,090 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-25 18:01:42,962 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 18:01:43,272 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 18:01:43,277 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 18:01:43,282 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 18:01:43,287 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 18:01:43,336 - utilities.Log -INFO - ApplicationManager.runInd false
+2020-02-25 18:01:49,810 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 18:01:50,026 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 18:01:50,265 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 18:01:50,293 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 18:01:50,632 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 18:01:50,863 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 18:01:50,888 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-25 18:01:50,942 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 18:01:51,126 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 18:01:51,256 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 18:02:13,059 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-25 18:03:46,670 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 18:03:46,695 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 18:03:46,699 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 18:03:46,704 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 18:03:46,708 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 18:03:46,713 - utilities.Log -INFO - ApplicationManager.runInd false
+2020-02-25 18:03:52,812 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 18:03:53,025 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 18:03:53,263 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 18:03:53,294 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 18:03:53,603 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 18:03:53,848 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 18:03:53,871 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-25 18:03:53,927 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 18:03:54,110 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 18:03:54,241 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 18:04:15,399 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-25 18:07:52,452 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 18:07:52,675 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 18:07:52,679 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 18:07:52,683 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 18:07:52,688 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 18:07:52,693 - utilities.Log -INFO - ApplicationManager.runInd false
+2020-02-25 18:59:08,611 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 18:59:08,673 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 18:59:08,689 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 18:59:08,689 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 18:59:08,689 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 18:59:08,705 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-25 18:59:18,002 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 18:59:18,299 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 18:59:18,626 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 18:59:18,673 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 18:59:19,079 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 18:59:19,469 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 18:59:19,515 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-25 18:59:19,625 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 18:59:19,859 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 18:59:20,046 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 19:03:58,552 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 19:03:58,585 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 19:03:58,590 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 19:03:58,614 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 19:03:58,618 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 19:03:58,623 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-25 19:04:06,775 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 19:04:06,991 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 19:04:07,226 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 19:04:07,261 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 19:04:07,573 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 19:04:07,807 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 19:04:07,831 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-25 19:04:07,889 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 19:04:08,092 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 19:04:08,215 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 19:04:29,772 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-25 19:35:55,864 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 19:35:55,910 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 19:35:55,926 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 19:44:01,195 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 19:44:02,459 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 19:44:33,035 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 19:49:25,706 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 19:49:25,738 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 19:49:25,738 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 19:50:28,060 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 19:50:31,788 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 19:50:36,343 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 19:51:55,217 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 19:51:55,232 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 19:51:55,232 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 19:51:55,248 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 19:51:55,248 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 19:51:55,264 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-25 19:52:04,826 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 19:52:05,123 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 19:52:05,450 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 19:52:05,497 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 19:52:05,872 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 19:52:06,262 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 19:52:06,308 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-25 19:52:06,418 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 19:52:06,652 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 19:52:06,823 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 19:55:38,110 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 19:55:38,141 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 19:55:38,156 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 19:55:39,654 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 19:55:54,396 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 19:56:05,550 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-25 19:57:33,878 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 19:57:33,914 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 19:57:33,919 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 19:57:38,540 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 19:58:08,665 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 19:58:08,671 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-25 20:01:21,796 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 20:01:21,822 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 20:01:21,827 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 20:01:24,573 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 20:01:24,578 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 20:01:24,583 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-25 20:01:53,334 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 20:01:53,631 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 20:01:53,974 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 20:01:54,021 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 20:01:54,395 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 20:01:54,785 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 20:01:54,832 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-25 20:01:54,941 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 20:01:55,191 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 20:01:55,362 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 20:07:30,958 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 20:07:31,055 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 20:07:31,060 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 20:07:31,111 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 20:07:31,117 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 20:07:31,122 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-25 20:07:43,882 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 20:07:44,124 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 20:07:44,366 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 20:07:44,395 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 20:07:44,724 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 20:07:45,033 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 20:07:45,060 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-25 20:07:45,131 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 20:07:45,319 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 20:07:45,454 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 20:12:21,400 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-25 20:12:21,436 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-25 20:12:21,441 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-25 20:12:21,464 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-25 20:12:21,470 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-25 20:12:21,475 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-25 20:12:31,310 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 20:12:31,537 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 20:12:31,772 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-25 20:12:31,802 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 20:12:32,136 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 20:12:32,392 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-25 20:12:32,415 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-25 20:12:32,477 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-25 20:12:32,659 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 20:12:32,789 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-25 20:13:05,968 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 20:13:07,277 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 20:13:07,787 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 20:13:08,281 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 20:13:09,366 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 20:13:18,330 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 20:13:19,647 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 20:13:20,146 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 20:13:20,394 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 20:13:21,430 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 20:13:29,620 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 20:13:31,002 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 20:13:31,497 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 20:13:31,960 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 20:13:33,135 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 20:13:41,544 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 20:13:42,959 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-25 20:13:43,461 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-25 20:13:43,921 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-25 20:13:45,269 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 20:13:53,509 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-25 20:13:53,680 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-02-25 20:13:53,758 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-25 20:13:54,081 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-26 09:50:11,527 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 09:50:11,605 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 09:50:11,605 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 09:50:11,636 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-26 09:50:11,636 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-26 09:50:11,636 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 09:50:22,400 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 09:50:22,697 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 09:50:23,102 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 09:50:23,149 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 09:50:23,539 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 09:50:23,914 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 09:50:23,960 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 09:50:24,070 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 09:50:24,335 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 09:50:24,522 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 09:50:57,360 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-26 09:50:58,671 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-26 09:50:59,207 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 09:50:59,716 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 09:51:00,918 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 09:51:10,125 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-26 09:51:11,409 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-26 09:51:11,912 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 09:51:12,367 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 09:51:13,473 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 09:51:22,470 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-26 09:51:22,631 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-02-26 09:51:22,718 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 09:51:31,233 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-26 09:51:32,716 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-26 09:51:33,214 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 09:51:33,677 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 09:51:34,910 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 09:51:43,525 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-26 09:51:44,915 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-26 09:51:45,424 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 09:51:45,905 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 09:51:47,213 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 09:51:47,560 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-26 10:38:19,583 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 10:38:19,692 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 10:38:19,708 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 10:38:19,723 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-26 10:38:19,723 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-26 10:38:19,739 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 10:38:29,193 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 10:38:29,505 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 10:38:29,848 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 10:38:29,910 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 10:38:30,300 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 10:38:30,675 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 10:38:30,721 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 10:38:30,831 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 10:38:31,080 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 10:38:31,704 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 10:46:31,108 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 10:46:31,155 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 10:46:31,155 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 10:46:31,170 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-26 10:46:31,170 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-26 10:46:31,170 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 10:46:39,469 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 10:46:39,750 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 10:46:40,078 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 10:46:40,125 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 10:46:40,515 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 10:46:40,889 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 10:46:40,936 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 10:46:41,045 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 10:46:41,279 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 10:46:41,466 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 10:47:14,856 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-26 10:47:16,137 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-26 10:47:16,670 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 10:47:17,161 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 10:47:18,308 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 10:47:27,516 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-26 10:47:28,790 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-26 10:47:29,291 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 10:47:29,745 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 10:47:30,809 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 10:47:39,138 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-26 10:47:39,301 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-02-26 10:47:39,390 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 10:47:47,832 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-26 10:47:49,361 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-26 10:47:49,854 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 10:47:50,124 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 10:47:51,465 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 10:47:59,759 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-26 10:48:01,177 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-26 10:48:01,696 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 10:48:02,165 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 10:48:03,469 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 10:48:03,784 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-26 11:23:12,452 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 11:23:12,530 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 11:23:12,530 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 11:23:12,561 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-26 11:23:12,561 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-26 11:23:12,561 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 11:23:22,374 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 11:23:22,639 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 11:23:22,951 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 11:23:22,998 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 11:23:23,403 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 11:23:23,778 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 11:23:23,824 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 11:23:23,949 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 11:23:24,183 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 11:23:24,370 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 11:23:57,360 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-26 11:23:58,631 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-26 11:23:59,169 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 11:23:59,667 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 11:24:00,997 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 11:24:10,013 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-26 11:24:11,300 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-26 11:24:11,807 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 11:24:12,265 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 11:24:13,448 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 11:24:21,785 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-26 11:24:21,939 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-02-26 11:24:22,020 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 11:24:30,536 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-26 11:24:32,027 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-26 11:24:32,519 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 11:24:32,989 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 11:24:34,183 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 11:24:42,470 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-26 11:24:43,871 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-26 11:24:44,401 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 11:24:44,863 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 11:24:46,200 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 11:24:46,509 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-26 15:07:27,003 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 15:07:27,206 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 15:07:27,221 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 15:07:27,331 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-26 15:07:27,331 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-26 15:07:27,331 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 15:07:37,564 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 15:07:37,845 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 15:07:38,188 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 15:07:38,235 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 15:07:38,625 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 15:07:38,999 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 15:07:39,046 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 15:07:39,140 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 15:07:39,374 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 15:07:39,530 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 15:08:01,448 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-26 15:08:35,391 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 15:08:35,416 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 15:08:35,421 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 15:08:35,449 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-26 15:08:35,453 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-26 15:08:35,457 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 15:14:18,510 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 15:14:18,557 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 15:14:18,557 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 15:14:34,016 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-26 15:14:44,562 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-26 15:14:57,338 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 15:27:08,822 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 15:27:08,869 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 15:27:08,869 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 15:27:15,249 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-26 15:27:15,249 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-26 15:27:15,265 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 15:27:27,776 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 15:27:28,073 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 15:27:28,416 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 15:27:28,463 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 15:27:28,868 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 15:27:29,243 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 15:27:29,289 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 15:27:29,383 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 15:27:29,617 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 15:27:29,804 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 17:42:10,861 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 17:42:10,970 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 17:42:10,970 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 17:42:36,585 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-26 17:42:36,585 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-26 17:42:36,601 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 17:42:46,398 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 17:42:46,710 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 17:42:47,037 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 17:42:47,100 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 17:42:47,490 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 17:42:47,895 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 17:42:47,942 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 17:42:48,051 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 17:42:48,285 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 17:42:48,488 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 17:49:40,008 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 17:49:40,039 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 17:49:40,055 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 17:50:02,113 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-26 17:50:02,129 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-26 17:50:02,129 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 17:50:09,726 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 17:50:09,991 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 17:50:10,319 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 17:50:10,365 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 17:50:10,755 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 17:50:11,130 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 17:50:11,177 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 17:50:11,286 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 17:50:11,535 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 17:50:11,707 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 17:53:42,261 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 17:53:42,286 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 17:53:42,291 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 17:53:42,300 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-26 17:53:42,304 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-26 17:53:42,309 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 17:53:48,137 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 17:53:48,355 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 17:53:48,584 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 17:53:48,617 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 17:53:48,954 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 17:53:49,188 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 17:53:49,213 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 17:53:49,273 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 17:53:49,463 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 17:53:49,582 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 17:55:52,788 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 17:55:54,950 - utilities.Log -INFO - process dismised
+2020-02-26 17:55:54,960 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-26 18:00:34,889 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 18:00:34,920 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 18:00:34,920 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 18:00:34,936 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-26 18:00:34,936 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-26 18:00:34,936 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 18:00:41,145 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 18:00:41,410 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 18:00:41,753 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 18:00:41,800 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 18:00:42,237 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 18:00:42,642 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 18:00:42,689 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 18:00:42,783 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 18:00:43,032 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 18:00:43,204 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 18:03:31,724 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 18:03:33,059 - utilities.Log -INFO - process dismised
+2020-02-26 18:03:33,073 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-26 18:08:41,800 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 18:08:41,862 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 18:08:41,862 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 18:08:41,878 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-26 18:08:41,894 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-26 18:08:41,894 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 18:08:51,768 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 18:08:52,065 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 18:09:20,987 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 18:09:21,034 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 18:09:21,455 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 18:10:32,919 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 18:10:33,044 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 18:10:33,278 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 18:10:33,870 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 18:10:39,830 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 18:18:35,680 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 18:22:06,951 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 18:22:06,997 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 18:22:07,013 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 18:22:07,044 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-26 18:22:07,044 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-26 18:22:07,044 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 18:22:17,184 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 18:22:17,512 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 18:22:17,933 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 18:22:18,323 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 18:22:18,370 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 18:22:18,697 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 18:22:18,869 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 18:22:53,432 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 18:22:53,942 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 18:22:55,081 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 18:23:06,229 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 18:23:06,614 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 18:23:07,765 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 18:23:16,550 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-02-26 18:23:16,635 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 18:23:27,155 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 18:23:27,643 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 18:23:28,826 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 18:23:39,035 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-26 18:23:39,519 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-26 18:23:40,792 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 18:23:41,109 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-26 18:56:58,641 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 18:56:58,672 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 18:56:58,688 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 18:56:58,703 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-26 18:56:58,719 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-26 18:56:58,719 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 18:57:08,017 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 18:57:17,392 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 18:57:17,845 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 18:57:22,493 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 18:57:22,540 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 18:57:22,868 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 18:57:23,039 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 18:58:14,908 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 18:58:16,190 - utilities.Log -INFO - process dismised
+2020-02-26 18:58:16,202 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-26 19:01:29,441 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 19:01:29,487 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 19:01:29,492 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 19:01:29,500 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-26 19:01:29,504 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-26 19:01:29,509 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 19:01:37,740 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 19:01:37,966 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 19:01:38,292 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 19:01:38,543 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 19:01:38,567 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 19:01:38,805 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 19:01:38,925 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 19:06:03,255 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 19:06:03,293 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 19:06:03,298 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 19:06:03,320 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-26 19:06:03,324 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-26 19:06:03,329 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 19:06:11,439 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 19:06:11,674 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 19:06:11,929 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 19:06:11,963 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 19:06:12,297 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 19:06:12,539 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 19:06:12,567 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 19:06:12,634 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 19:06:12,828 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 19:06:12,974 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 19:07:04,774 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-26 19:07:05,146 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-26 19:07:05,526 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-26 19:07:05,819 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-26 19:07:05,869 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-26 19:07:05,964 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-26 19:07:06,432 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-26 19:07:06,591 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-26 19:07:23,406 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_contract_agreement started application_type
+2020-02-26 19:09:34,907 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_agreement_params started
+2020-02-26 19:09:35,529 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-26 19:09:36,001 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-26 19:10:36,663 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-26 19:12:56,037 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 19:12:56,068 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 19:12:56,084 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 19:12:56,100 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-26 19:12:56,100 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-26 19:12:56,100 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 19:13:05,959 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 19:13:06,271 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 19:13:06,614 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 19:13:06,661 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 19:13:07,051 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 19:13:07,441 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 19:13:07,488 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 19:13:07,597 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 19:13:07,862 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 19:13:08,049 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 19:13:41,062 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-26 19:13:41,852 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-26 19:13:42,228 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-26 19:13:42,524 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-26 19:13:42,574 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-26 19:13:42,682 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-26 19:13:42,969 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-26 19:13:43,119 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-26 19:13:43,170 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-26 19:14:30,627 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_agreement_params started
+2020-02-26 19:14:31,234 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-26 19:14:31,694 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-26 20:59:47,926 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 20:59:48,035 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 20:59:48,035 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 20:59:48,051 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-26 20:59:48,051 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-26 20:59:48,066 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 20:59:56,927 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 20:59:57,224 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 20:59:57,582 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 20:59:57,629 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 20:59:58,019 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 20:59:58,409 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 20:59:58,456 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 20:59:58,565 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 20:59:58,830 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 20:59:59,018 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 21:00:31,341 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-26 21:00:32,146 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-26 21:00:32,539 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-26 21:00:32,831 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-26 21:00:32,877 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-26 21:00:32,967 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-26 21:00:33,225 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-26 21:00:33,407 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-26 21:00:33,455 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-26 21:00:47,110 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_agreement_params started
+2020-02-26 21:00:47,507 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-26 21:00:47,958 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-26 21:03:42,566 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-26 21:03:42,593 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-26 21:03:42,598 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-26 21:03:42,607 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-26 21:03:42,611 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-26 21:03:42,616 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-26 21:03:50,107 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 21:03:50,326 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 21:03:50,554 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-26 21:03:50,585 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 21:03:50,922 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 21:03:51,165 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-26 21:03:51,188 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-26 21:03:51,255 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-26 21:03:51,448 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 21:03:51,576 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-26 21:04:24,093 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-26 21:04:24,916 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-26 21:04:25,308 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-26 21:04:25,594 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-26 21:04:25,642 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-26 21:04:25,733 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-26 21:04:25,992 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-26 21:04:26,144 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-26 21:04:26,195 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-26 21:04:27,650 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_agreement_params started
+2020-02-26 21:04:28,050 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-26 21:04:28,514 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-27 10:28:12,647 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-27 10:28:12,709 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-27 10:28:12,709 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-27 10:28:12,741 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-27 10:28:12,741 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-27 10:28:12,756 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-27 10:28:22,319 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 10:28:22,615 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 10:28:23,005 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 10:28:23,068 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 10:28:23,458 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 10:28:23,848 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 10:28:23,895 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 10:28:24,019 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 10:28:24,269 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 10:28:24,472 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 10:29:00,953 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-27 10:29:01,798 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 10:29:02,174 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 10:29:02,457 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 10:29:02,505 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-27 10:29:02,596 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 10:29:02,845 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 10:29:03,000 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 10:29:03,047 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-27 10:29:04,398 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_agreement_params started
+2020-02-27 10:29:04,771 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-27 10:29:05,232 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-27 11:25:09,841 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-27 11:25:09,919 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-27 11:25:09,934 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-27 11:25:09,950 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-27 11:25:09,965 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-27 11:25:09,965 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-27 11:25:19,216 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 11:25:19,513 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 11:25:19,840 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 11:25:19,903 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 11:25:20,293 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 11:25:20,683 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 11:25:20,729 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 11:25:20,839 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 11:25:21,073 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 11:25:21,244 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 11:25:54,994 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-27 11:25:55,817 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 11:25:56,200 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 11:25:56,487 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 11:25:56,535 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-27 11:25:56,626 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 11:25:56,886 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 11:25:57,044 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 11:25:57,097 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-27 11:25:58,489 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_agreement_params started
+2020-02-27 11:25:58,878 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-27 11:25:59,340 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-27 11:27:12,556 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_ctn_ttn_count started with data: 200
+2020-02-27 11:50:25,440 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 11:50:27,889 - utilities.Log -INFO - process dismised
+2020-02-27 11:50:27,905 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-27 11:59:13,750 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-27 11:59:13,952 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-27 11:59:13,952 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-27 11:59:14,015 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-27 11:59:14,015 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-27 11:59:14,015 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-27 11:59:23,484 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 11:59:23,796 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 11:59:24,124 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 11:59:24,170 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 11:59:24,592 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 11:59:24,966 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 11:59:25,013 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 11:59:25,122 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 11:59:25,372 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 11:59:25,543 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 11:59:59,281 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-27 12:00:00,169 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 12:00:00,577 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 12:00:00,877 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 12:00:00,937 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-27 12:00:01,049 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 12:00:01,329 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 12:00:01,493 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 12:00:01,546 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-27 12:00:03,007 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_agreement_params started
+2020-02-27 12:00:03,402 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-27 12:00:03,905 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-27 12:00:35,911 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_ctn_ttn_count started with data: 200
+2020-02-27 12:04:25,642 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 13:15:53,061 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-27 13:15:53,139 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-27 13:15:53,155 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-27 13:15:53,171 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-27 13:15:53,186 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-27 13:15:53,186 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-27 13:20:28,136 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 13:20:28,464 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 13:20:28,791 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 13:20:28,838 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 13:20:29,228 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 13:20:29,603 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 13:20:29,649 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 13:20:29,759 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 13:20:29,993 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 13:20:30,195 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 13:21:07,063 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-27 13:21:08,154 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 13:21:08,534 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 13:21:08,819 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 13:21:08,868 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-27 13:21:08,965 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 13:21:09,247 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 13:21:09,397 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 13:21:09,444 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-27 13:21:10,847 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_agreement_params started
+2020-02-27 13:21:11,225 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-27 13:21:11,696 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_agreement_params מלאי חברה started
+2020-02-27 13:23:09,677 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_ctn_ttn_count started with data: 200
+2020-02-27 14:29:12,209 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-27 14:29:12,303 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-27 14:29:12,303 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-27 14:29:12,319 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-27 14:29:12,334 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-27 14:29:12,334 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-27 14:29:21,538 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:29:21,819 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 14:29:22,147 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 14:29:22,193 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:29:22,599 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 14:29:22,989 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 14:29:23,036 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 14:29:23,145 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:29:23,395 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 14:29:23,566 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 14:29:57,530 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-27 14:29:58,371 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 14:29:58,755 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 14:29:59,034 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 14:29:59,081 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-27 14:29:59,175 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 14:29:59,428 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 14:29:59,581 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 14:29:59,629 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-27 14:30:01,073 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_agreement_params started with data: מלאי חברה
+2020-02-27 14:30:17,899 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_ctn_ttn_count started with data: 200
+2020-02-27 14:30:23,456 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_unit started with data: פתוח לכל אמצעי התקשור
+2020-02-27 14:30:26,901 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard typeData dw_unit started
+2020-02-27 14:30:28,306 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 14:30:29,592 - utilities.Log -INFO - process dismised
+2020-02-27 14:30:30,774 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:30:31,004 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 14:30:31,223 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 14:30:31,263 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:30:31,605 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 14:30:31,876 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 14:30:31,927 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 14:30:31,975 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:30:32,166 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 14:30:32,272 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 14:33:41,561 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-27 14:33:41,625 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-27 14:33:41,630 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-27 14:33:41,639 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-27 14:33:41,644 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-27 14:33:41,649 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-27 14:33:50,321 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:33:50,540 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 14:33:50,781 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 14:33:50,810 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:33:51,151 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 14:33:51,394 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 14:33:51,419 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 14:33:51,495 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:33:51,685 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 14:33:51,821 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 14:34:25,387 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-27 14:34:26,231 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 14:34:26,606 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 14:34:26,895 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 14:34:26,946 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-27 14:34:27,045 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 14:34:27,300 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 14:34:27,455 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 14:34:27,507 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-27 14:34:28,880 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_agreement_params started with data: מלאי חברה
+2020-02-27 14:34:45,563 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_ctn_ttn_count started with data: 200
+2020-02-27 14:35:05,511 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_unit started with data: פתוח לכל אמצעי התקשור
+2020-02-27 14:35:07,173 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard typeData dw_unit started
+2020-02-27 14:35:07,313 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 14:35:08,656 - utilities.Log -INFO - process dismised
+2020-02-27 14:35:09,822 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:35:10,034 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 14:35:10,256 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 14:35:10,292 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:35:10,625 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 14:35:10,867 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 14:35:10,898 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 14:35:10,951 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:35:11,146 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 14:35:11,273 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 14:42:17,293 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-27 14:42:17,340 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-27 14:42:17,340 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-27 14:42:17,356 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-27 14:42:17,356 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-27 14:42:17,356 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-27 14:42:26,950 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:42:29,274 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 14:42:29,633 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 14:42:29,680 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:42:30,070 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 14:42:30,444 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 14:42:30,491 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 14:42:30,585 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:42:30,819 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 14:42:30,975 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 14:43:04,800 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-27 14:43:05,692 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 14:43:06,071 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 14:43:06,351 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 14:43:06,400 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-27 14:43:06,492 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 14:43:06,747 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 14:43:06,901 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 14:43:06,949 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-27 14:43:08,337 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_agreement_params started with data: מלאי חברה
+2020-02-27 14:43:25,099 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_ctn_ttn_count started with data: 200
+2020-02-27 14:43:44,765 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_unit started with data: פתוח לכל אמצעי התקשור
+2020-02-27 14:43:46,483 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard typeData dw_unit started
+2020-02-27 14:43:46,765 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard sendKeys dw_unit 0509089657 started
+2020-02-27 14:43:47,094 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard sendKeys dw_unit 0509089657 started
+2020-02-27 14:44:34,593 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 14:44:35,939 - utilities.Log -INFO - process dismised
+2020-02-27 14:44:39,065 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:51:35,836 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-27 14:51:35,898 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-27 14:51:35,898 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-27 14:51:35,914 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-27 14:51:35,930 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-27 14:51:35,930 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-27 14:51:46,335 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:51:46,600 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 14:51:46,912 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 14:51:46,959 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:51:47,349 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 14:51:47,739 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 14:51:47,786 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 14:51:47,879 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:51:48,129 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 14:51:48,332 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 14:56:07,784 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-27 14:56:07,809 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-27 14:56:07,813 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-27 14:56:07,822 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-27 14:56:07,827 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-27 14:56:07,831 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-27 14:56:16,778 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:56:16,998 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 14:56:17,224 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 14:56:17,263 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:56:17,621 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 14:56:17,851 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 14:56:17,886 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 14:56:17,945 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 14:56:18,140 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 14:56:18,268 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 14:56:52,566 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-27 14:56:53,418 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 14:56:53,800 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 14:56:54,082 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 14:56:54,131 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-27 14:56:54,226 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 14:56:54,476 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 14:56:54,628 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 14:56:54,678 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-27 14:56:56,079 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_agreement_params started with data: מלאי חברה
+2020-02-27 14:57:12,928 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_ctn_ttn_count started with data: 200
+2020-02-27 14:57:52,013 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_unit started with data: פתוח לכל אמצעי התקשור
+2020-02-27 14:57:57,917 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard typeData dw_unit started
+2020-02-27 14:57:58,364 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard sendKeys dw_unit 0509089657 started
+2020-02-27 14:57:58,672 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard sendKeys dw_unit 0509089657 started
+2020-02-27 15:11:40,644 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 15:17:03,470 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-27 15:17:03,517 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-27 15:17:03,517 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-27 15:17:03,548 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-27 15:17:03,548 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-27 15:17:03,548 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-27 15:17:13,080 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 15:17:13,392 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 15:17:13,704 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 15:17:13,766 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 15:17:14,156 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 15:17:14,546 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 15:17:14,593 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 15:17:14,718 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 15:17:14,983 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 15:17:15,170 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 15:17:51,511 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-27 15:17:54,280 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 15:17:54,661 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 15:17:54,944 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 15:17:54,994 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-27 15:17:55,093 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 15:17:55,349 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 15:17:55,503 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 15:17:55,554 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-27 15:17:57,015 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_agreement_params started with data: מלאי חברה
+2020-02-27 15:18:13,782 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_ctn_ttn_count started with data: 200
+2020-02-27 15:18:30,937 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_unit started with data: פתוח לכל אמצעי התקשור
+2020-02-27 15:18:32,519 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard typeData dw_unit started
+2020-02-27 15:18:33,040 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard sendKeys dw_unit 0509089657 started
+2020-02-27 15:18:33,504 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard sendKeys dw_unit 0509089657 started
+2020-02-27 15:19:20,668 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-02-27 15:19:29,822 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-27 15:19:30,732 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 15:19:31,108 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 15:19:31,388 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 15:19:31,439 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-27 15:19:31,532 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 15:19:31,788 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 15:19:31,941 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 15:19:31,987 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-27 15:19:33,373 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_agreement_params started with data: מלאי חברה
+2020-02-27 15:19:49,943 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_ctn_ttn_count started with data: 200
+2020-02-27 15:20:07,208 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_unit started with data: פתוח לכל אמצעי התקשור
+2020-02-27 15:20:08,813 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard typeData dw_unit started
+2020-02-27 15:20:09,319 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard sendKeys dw_unit 0509089657 started
+2020-02-27 15:20:09,807 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard sendKeys dw_unit 0509089657 started
+2020-02-27 15:20:58,022 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-02-27 15:21:06,994 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-27 15:21:07,919 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 15:21:08,458 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 15:21:08,874 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 15:21:08,982 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-27 15:21:09,076 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 15:21:09,337 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 15:21:09,520 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 15:21:09,571 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-27 15:21:11,068 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_agreement_params started with data: מלאי חברה
+2020-02-27 15:26:43,109 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-27 15:26:43,156 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-27 15:26:43,156 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-27 15:26:43,172 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-27 15:26:43,172 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-27 15:26:43,187 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-27 15:26:52,781 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 15:26:53,062 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 15:26:53,405 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 15:26:53,452 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 15:26:53,858 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 15:26:54,232 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 15:26:54,279 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 15:26:54,388 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeData dw_1 started
+2020-02-27 15:26:54,653 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 15:26:54,841 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 15:27:28,688 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-27 15:27:29,591 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 15:27:29,966 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 15:27:30,251 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 15:27:30,300 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-27 15:27:30,393 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 15:27:30,650 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 15:27:30,801 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 15:27:30,850 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-27 15:27:32,244 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_agreement_params started with data: מלאי חברה
+2020-02-27 15:27:49,049 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_ctn_ttn_count started with data: 200
+2020-02-27 15:28:06,152 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_unit started with data: פתוח לכל אמצעי התקשור
+2020-02-27 15:28:07,769 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard typeData dw_unit started
+2020-02-27 15:28:08,271 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard sendKeys dw_unit 0509089657 started
+2020-02-27 15:28:08,767 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard sendKeys dw_unit 0509089657 started
+2020-02-27 15:28:53,648 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-02-27 15:28:53,760 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 15:29:03,934 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-27 15:29:04,640 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 15:29:05,018 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 15:29:05,298 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 15:29:05,350 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-27 15:29:05,442 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeData dw_sales_contract_info started
+2020-02-27 15:29:05,700 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 15:29:05,850 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 15:29:05,900 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-27 15:29:07,277 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_agreement_params started with data: מלאי חברה
+2020-02-27 15:29:23,909 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_ctn_ttn_count started with data: 200
+2020-02-27 15:29:41,029 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_unit started with data: פתוח לכל אמצעי התקשור
+2020-02-27 15:29:42,621 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard typeData dw_unit started
+2020-02-27 15:29:43,109 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard sendKeys dw_unit 0509089657 started
+2020-02-27 15:29:43,637 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard sendKeys dw_unit 0509089657 started
+2020-02-27 15:30:31,917 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-02-27 15:30:32,001 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 15:30:32,358 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-27 16:03:52,753 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-27 16:03:52,815 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-27 16:03:52,815 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-27 16:03:52,862 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-27 16:03:52,862 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-27 16:03:52,877 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-27 16:04:03,002 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 16:04:03,688 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 16:04:04,078 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 16:04:04,406 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 16:04:27,509 - utilities.Log -INFO - windows.csmWindows.WSearchBan typeData pbEdit em_last started with data: 3152465
+2020-02-27 16:04:36,551 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-27 16:04:37,817 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-27 16:04:38,362 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-27 16:04:38,854 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-27 16:04:39,983 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 16:04:39,988 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-02-27 16:04:42,233 - utilities.Log -INFO - windows.csmWindows.WSearchBan typeData pbEdit em_last started with data: 6049992
+2020-02-27 16:04:49,485 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-27 16:04:50,948 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-27 16:04:51,463 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-27 16:04:51,897 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-27 16:04:52,902 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 16:04:52,906 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-02-27 16:04:53,931 - utilities.Log -INFO - windows.csmWindows.WSearchBan typeData pbEdit em_last started with data: 7247777
+2020-02-27 16:05:00,965 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-27 16:05:01,141 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-02-27 16:05:01,223 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 16:05:01,230 - utilities.Log -INFO - excelResultMsg: אין מנויים לאיקטוב
+2020-02-27 16:05:02,834 - utilities.Log -INFO - windows.csmWindows.WSearchBan typeData pbEdit em_last started with data: 6853313
+2020-02-27 16:05:10,195 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-27 16:05:11,605 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-27 16:05:12,112 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-27 16:05:12,584 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-27 16:05:13,810 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 16:05:13,815 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-02-27 16:05:15,329 - utilities.Log -INFO - windows.csmWindows.WSearchBan typeData pbEdit em_last started with data: 6853314
+2020-02-27 16:05:22,603 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-27 16:05:24,044 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-27 16:05:24,576 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-27 16:05:25,060 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-27 16:05:26,384 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 16:05:26,388 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-02-27 16:05:27,550 - utilities.Log -INFO - windows.csmWindows.WSearchBan typeData pbEdit em_last started with data: 7247782
+2020-02-27 16:05:34,732 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-27 16:05:39,331 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-27 16:05:40,334 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns getConfigData dw_title started number_type
+2020-02-27 16:05:40,501 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns getRowCount dw_agreement_list started
+2020-02-27 16:05:40,615 - utilities.Log -INFO - Amount for activation: 10
+2020-02-27 16:36:21,081 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-27 16:36:21,190 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-27 16:36:21,190 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-27 16:36:21,221 - utilities.Log -INFO - AppManager: columns in Excel 4
+2020-02-27 16:36:21,237 - utilities.Log -INFO - Test Base: startSession MultiplyCreationPrepaid
+2020-02-27 16:36:21,237 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-27 16:36:32,719 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 16:36:33,421 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 16:36:33,811 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 16:36:34,123 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 16:36:57,321 - utilities.Log -INFO - windows.csmWindows.WSearchBan typeData pbEdit em_last started with data: 7247782
+2020-02-27 16:37:07,989 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-27 16:37:09,227 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 16:37:09,509 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-27 16:37:09,806 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 16:37:09,962 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-27 16:37:11,379 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_agreement_params started with data: מלאי חברה
+2020-02-27 16:37:28,427 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_ctn_ttn_count started with data: 200
+2020-02-27 16:37:45,586 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_unit started with data: פתוח לכל אמצעי התקשור
+2020-02-27 16:37:47,576 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard sendKeys dw_unit 0509089657 started
+2020-02-27 16:38:33,221 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-02-27 16:38:33,327 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 16:38:33,333 - utilities.Log -INFO - excelResultMsg: 68814170
+2020-02-27 16:38:35,947 - utilities.Log -INFO - windows.csmWindows.WSearchBan typeData pbEdit em_last started with data: 7247782
+2020-02-27 16:38:43,299 - utilities.Log -INFO - windows.csmWindows.WContractAgreement getConfigData dw_sales_contract_info started branch_code
+2020-02-27 16:38:44,471 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info 201539996 started
+2020-02-27 16:38:44,752 - utilities.Log -INFO - windows.csmWindows.WContractAgreement typeTab dw_sales_contract_info started
+2020-02-27 16:38:45,056 - utilities.Log -INFO - windows.csmWindows.WContractAgreement sendKeys dw_sales_contract_info <__TAB> started
+2020-02-27 16:38:45,213 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_contract_agreement started with data: ה.מקבצת למשווק
+2020-02-27 16:38:46,609 - utilities.Log -INFO - windows.csmWindows.WContractAgreement setData dw_agreement_params started with data: מלאי חברה
+2020-02-27 16:39:03,783 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_ctn_ttn_count started with data: 200
+2020-02-27 16:39:20,891 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard setData dw_unit started with data: פתוח לכל אמצעי התקשור
+2020-02-27 16:39:22,490 - utilities.Log -INFO - windows.csmWindows.WBanCtnWizard sendKeys dw_unit 0509089657 started
+2020-02-27 16:40:07,677 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-02-27 16:40:07,763 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 16:40:07,769 - utilities.Log -INFO - excelResultMsg: 68814175
+2020-02-27 16:40:08,097 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-27 18:51:05,944 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-27 18:51:06,022 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-27 18:51:06,022 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-27 18:51:06,053 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-27 18:51:06,053 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-27 18:51:06,069 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-27 18:51:16,037 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 1002 started
+2020-02-27 18:51:16,755 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 I1234523s started
+2020-02-27 18:51:17,129 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-27 18:51:17,441 - utilities.Log -INFO - windows.sharedWindows.WLgLogin sendKeys dw_1 <__TAB> started
+2020-02-27 18:53:32,411 - utilities.Log -INFO - windows.csmWindows.WSearchBan typeData pbEdit em_last started with data: 3152465
+2020-02-27 18:53:42,105 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-27 18:53:43,409 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-27 18:53:43,960 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-27 18:53:44,461 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-27 18:53:45,627 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 18:53:45,632 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-02-27 18:53:59,574 - utilities.Log -INFO - windows.csmWindows.WSearchBan typeData pbEdit em_last started with data: 6049992
+2020-02-27 18:54:06,828 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-27 18:54:08,302 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-27 18:54:08,816 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-27 18:54:09,255 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-27 18:54:10,499 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 18:54:10,503 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-02-27 18:54:11,671 - utilities.Log -INFO - windows.csmWindows.WSearchBan typeData pbEdit em_last started with data: 7247777
+2020-02-27 18:54:18,758 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-27 18:54:18,927 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-02-27 18:54:19,008 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 18:54:19,013 - utilities.Log -INFO - excelResultMsg: אין מנויים לאיקטוב
+2020-02-27 18:54:21,177 - utilities.Log -INFO - windows.csmWindows.WSearchBan typeData pbEdit em_last started with data: 6853313
+2020-02-27 18:54:28,284 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-27 18:54:29,597 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-27 18:54:30,110 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-27 18:54:30,583 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-27 18:54:31,835 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 18:54:31,840 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-02-27 18:54:33,016 - utilities.Log -INFO - windows.csmWindows.WSearchBan typeData pbEdit em_last started with data: 6853314
+2020-02-27 18:54:40,233 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-27 18:54:41,620 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-27 18:54:42,146 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-27 18:54:42,612 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-27 18:54:43,929 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-27 18:54:43,934 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-02-27 18:54:44,281 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-02-29 08:07:33,041 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-29 08:07:33,128 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-29 08:07:33,133 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-29 08:07:33,171 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-29 08:07:33,176 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-29 08:07:33,181 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-29 08:07:43,959 - utilities.Log -INFO -  sendKeys dw_1 1002 started
+2020-02-29 08:07:44,670 - utilities.Log -INFO -  sendKeys dw_1 I1234523s started
+2020-02-29 08:07:44,915 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-29 08:07:45,146 - utilities.Log -INFO -  sendKeys dw_1 <__TAB> started
+2020-02-29 08:08:15,345 - utilities.Log -INFO -  typeData pbEdit em_last started with data: 3152465
+2020-02-29 08:08:29,727 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-29 08:08:31,616 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-29 08:08:32,150 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-29 08:08:32,679 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-29 08:08:33,741 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-29 08:08:33,746 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-02-29 08:08:35,767 - utilities.Log -INFO -  typeData pbEdit em_last started with data: 6049992
+2020-02-29 08:08:43,278 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-29 08:08:44,388 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-29 08:08:44,880 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-29 08:08:45,353 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-29 08:08:46,404 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-29 08:08:46,409 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-02-29 08:08:47,429 - utilities.Log -INFO -  typeData pbEdit em_last started with data: 6853313
+2020-02-29 08:08:58,421 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-29 08:08:59,239 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-29 08:08:59,739 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-29 08:09:00,212 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-29 08:09:01,557 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-29 08:09:01,561 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-02-29 08:09:02,557 - utilities.Log -INFO -  typeData pbEdit em_last started with data: 6853314
+2020-02-29 08:09:15,467 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-29 08:09:16,283 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-29 08:09:16,773 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-29 08:09:17,238 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-29 08:09:18,470 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-29 08:09:18,475 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-02-29 08:09:19,466 - utilities.Log -INFO -  typeData pbEdit em_last started with data: 7247782
+2020-02-29 08:09:27,798 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-29 08:09:33,746 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-29 08:09:34,732 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns getConfigData dw_title started number_type
+2020-02-29 08:09:34,887 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns getRowCount dw_agreement_list started
+2020-02-29 08:09:34,991 - utilities.Log -INFO - Amount for activation: 9
+2020-02-29 09:19:39,508 - utilities.Log -ERROR - Inside loop not ended
+2020-02-29 09:19:39,586 - utilities.Log -INFO - InsideLoop Not Completed
+2020-02-29 09:19:39,835 - utilities.Log -INFO - process dismised
+2020-02-29 09:19:42,550 - utilities.Log -INFO -  sendKeys dw_1 1002 started
+2020-02-29 09:19:43,439 - utilities.Log -INFO -  sendKeys dw_1 I1234523s started
+2020-02-29 09:19:43,829 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-29 09:19:44,125 - utilities.Log -INFO -  sendKeys dw_1 <__TAB> started
+2020-02-29 09:45:23,400 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-02-29 09:45:23,494 - utilities.Log -INFO - AppManager: UserName 1002
+2020-02-29 09:45:23,509 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-02-29 09:45:23,525 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-02-29 09:45:23,525 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-02-29 09:45:23,541 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-02-29 09:45:33,540 - utilities.Log -INFO -  sendKeys dw_1 1002 started
+2020-02-29 09:45:34,211 - utilities.Log -INFO -  sendKeys dw_1 I1234523s started
+2020-02-29 09:45:34,586 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-02-29 09:45:34,882 - utilities.Log -INFO -  sendKeys dw_1 <__TAB> started
+2020-02-29 09:45:57,371 - utilities.Log -INFO -  typeData pbEdit em_last started with data: 7247782
+2020-02-29 09:46:07,826 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-02-29 09:46:09,408 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-02-29 09:46:10,418 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns getConfigData dw_title started number_type
+2020-02-29 09:46:10,582 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns getRowCount dw_agreement_list started
+2020-02-29 09:46:10,692 - utilities.Log -INFO - Amount for activation: 2
+2020-02-29 10:02:51,860 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-02-29 10:02:52,500 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-02-29 10:02:54,138 - utilities.Log -INFO - InsideLoopCompleted
+2020-02-29 10:02:54,138 - utilities.Log -INFO - excelResultMsg: Pass
+2020-02-29 10:02:55,807 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-03-01 13:36:26,644 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-03-01 13:36:26,691 - utilities.Log -INFO - AppManager: UserName 1002
+2020-03-01 13:36:26,691 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-03-01 13:36:26,722 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-03-01 13:36:26,722 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-03-01 13:36:26,722 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-03-01 13:42:52,956 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-03-01 13:42:53,003 - utilities.Log -INFO - AppManager: UserName 1002
+2020-03-01 13:42:53,003 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-03-01 13:42:53,034 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-03-01 13:42:53,034 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-03-01 13:42:53,049 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-03-01 13:43:02,909 - utilities.Log -INFO -  sendKeys dw_1 1002 started
+2020-03-01 13:43:03,657 - utilities.Log -INFO -  sendKeys dw_1 I1234523s started
+2020-03-01 13:43:04,032 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-03-01 13:43:04,313 - utilities.Log -INFO -  sendKeys dw_1 <__TAB> started
+2020-03-01 13:43:48,913 - utilities.Log -INFO -  typeData pbEdit em_last started with data: 3152465
+2020-03-01 13:43:58,242 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-03-01 13:43:59,194 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-03-01 13:43:59,771 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-03-01 13:44:00,083 - utilities.Log -INFO - windows.csmWindows.WBan closeWin null started
+2020-03-01 13:44:01,237 - utilities.Log -INFO - InsideLoopCompleted
+2020-03-01 13:44:01,237 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-03-01 13:44:03,406 - utilities.Log -INFO -  typeData pbEdit em_last started with data: 6049992
+2020-03-01 13:44:10,332 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-03-01 13:44:11,066 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-03-01 13:44:11,627 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-03-01 13:44:13,484 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-03-01 13:44:13,608 - utilities.Log -INFO - InsideLoopCompleted
+2020-03-01 13:44:13,608 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-03-01 13:44:14,669 - utilities.Log -INFO -  typeData pbEdit em_last started with data: 6853313
+2020-03-01 13:44:21,892 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-03-01 13:44:22,734 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-03-01 13:44:23,312 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-03-01 13:44:25,340 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-03-01 13:44:25,464 - utilities.Log -INFO - InsideLoopCompleted
+2020-03-01 13:44:25,464 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-03-01 13:44:26,541 - utilities.Log -INFO -  typeData pbEdit em_last started with data: 6853314
+2020-03-01 13:44:34,107 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-03-01 13:44:34,980 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns setData dw_title started with data: מנויים ממקבצת
+2020-03-01 13:44:35,542 - utilities.Log -INFO - windows.csmWindows.WWaitActivationCtns closeWin rw_wait_activation_ctns started
+2020-03-01 13:44:37,585 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-03-01 13:44:37,710 - utilities.Log -INFO - InsideLoopCompleted
+2020-03-01 13:44:37,710 - utilities.Log -INFO - excelResultMsg: אין מנויים ממקבצת
+2020-03-01 13:44:38,786 - utilities.Log -INFO -  typeData pbEdit em_last started with data: 7247782
+2020-03-01 13:44:46,601 - utilities.Log -INFO - windows.csmWindows.WBan activateCell dw_warning started
+2020-03-01 13:44:46,820 - utilities.Log -INFO - windows.csmWindows.WBan closeWin w_ban started
+2020-03-01 13:44:46,945 - utilities.Log -INFO - InsideLoopCompleted
+2020-03-01 13:44:46,945 - utilities.Log -INFO - excelResultMsg: אין מנויים לאיקטוב
+2020-03-01 13:44:47,257 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
+2020-03-01 18:19:02,058 - utilities.Log -INFO - AppManager: ExeToStart D:/Shavit/bin/A_LG.exe
+2020-03-01 18:19:02,136 - utilities.Log -INFO - AppManager: UserName 1002
+2020-03-01 18:19:02,136 - utilities.Log -INFO - AppManager: Password I1234523s
+2020-03-01 18:19:02,167 - utilities.Log -INFO - AppManager: columns in Excel 1
+2020-03-01 18:19:02,167 - utilities.Log -INFO - Test Base: startSession MultiplyActivationPrepaid
+2020-03-01 18:19:02,183 - utilities.Log -INFO - ApplicationManager.isMainLoopCompleted false
+2020-03-01 18:19:11,152 - utilities.Log -INFO -  sendKeys dw_1 1002 started
+2020-03-01 18:19:11,839 - utilities.Log -INFO -  sendKeys dw_1 I1234523s started
+2020-03-01 18:19:12,229 - utilities.Log -INFO - windows.sharedWindows.WLgLogin typeTab dw_1 started
+2020-03-01 18:19:12,541 - utilities.Log -INFO -  sendKeys dw_1 <__TAB> started
+2020-03-01 18:19:34,224 - utilities.Log -INFO - iterateThroughDataTbl: ApplicationManager.setMainLoopCompleted(true)
